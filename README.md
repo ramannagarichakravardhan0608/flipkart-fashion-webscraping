@@ -10,7 +10,7 @@ Flipkart is one of India's largest online marketplaces.
 This project demonstrates how to use **Python web scraping techniques** to collect structured product data from Flipkart’s fashion section.
 
 You’ll learn:
-- How to send HTTP requests to a webpage
+- How to send HTTP requests to a webpage  
 - How to parse HTML content using BeautifulSoup  
 - How to extract useful product details  
 - How to store data using Pandas  
