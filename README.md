@@ -1,6 +1,6 @@
 # 🛍️ Flipkart Fashion Web Scraping
 
-This project focuses on web scraping fashion product data from Flipkart using Python.  
+This project focuses on web scraping fashion product data from Flipkart using Python
 It extracts product details such as name, price, rating, and reviews, which can be used for analysis, comparison, or trend prediction in the e-commerce fashion sector.
 
 ---
